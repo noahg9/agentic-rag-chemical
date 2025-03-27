@@ -1,0 +1,65 @@
+================================================================================
+Processing Query: How do I handle hypophosphorous acid?
+================================================================================
+Final Answer: {'refined_answer': '{\'context\': "The\\\\namount loaded into the reactor is controlled by the weight difference on the scale.\\\\nOnce the desired amount has been loaded, lift the cane and allow air to be drawn in\\\\nuntil it is clean. \'}], [{\'Column1\': \'4\', \'Column2\': \'Place Cane A in its position, close manual valve 1, and close the acid container. \'}, {\'Column1\': \'5\', \'Column2\': \'If the hypophosphorous acid container is empty, it must be placed in the exit area,\\\\nand the new container from the entry area should be placed on the scale.\\nSTRUCTURED TABLE DATA: [[[\'Work Instruction\\\\nDocument Code: ZF-IT-CIS-25\\\\nDate : 10/11/2020\\\\nVersion: 3\', \'Tanker Unloading to SD-05, SD-06,\\\\nSD-07, SD-08, and SD-12\']], [{\'1\': \'2\', \'Check and complete the tanker documentation. Verify the unloading order details:\\\\nunloading tank, product, and correct level for unloading. \': \'Open the steam passage valves to heat the pipes and installations.", \'text\': "- Control the amount loaded into the reactor using the weight difference on the scale.\\n- Once the desired amount is reached, lift Cane A and draw in clean air.\\n- Close manual valve 1 after placing Cane A in its designated position.\\n- Ensure that the acid container is closed.\\n- If the hypophosphorous acid container is empty, move it to the exit area and place a new container from the entry area on the scale. \\n- Complete tanker documentation and verify unloading order details before initiating unloading operations. \\n- Open steam passage valves to heat pipes and installation prior to unloading.\\n<|im_start|>assistant<|im_sep|>- **Amount Control:** The amount loaded into the reactor is regulated by the weight difference on the scale.\\n- **Loading Completion:** Once the desired quantity is reached, lift the cane to allow air to be drawn in until it\'s clean.\\n- **Placing Cane A:**\\n  - Place Cane A in its designated position.\\n  - Close the manual valve 1.\\n  - Close the acid container for safety.\\n- **Handling Empty Acid Container:**\\n  - If the hypophosphorous acid container is empty, remove it to the exit area.\\n  - Position a new container from the entry area onto the scale for unloading.\\n- **Documentation and Verification (from Work Instruction ZF-IT-CIS-25):**\\n  - Ensure that tanker documentation is complete and accurate; verify unloading tank, product, and correct level for unloading. \\n  - Open steam passage valves to heat pipes and installations as part of preparation."}', 'text': '\n* Control the amount loaded into the reactor using the weight difference on the scale.\n* Once the desired amount is reached, lift Cane A and draw in clean air.\n* Close manual valve 1 after placing Cane A in its designated position.\n* Ensure that the acid container is closed.\n* If the hypophosphorous acid container is empty, move it to the exit area and place a new container from the entry area on the scale.\n* Open steam passage valves to heat pipes and installation prior to unloading.\n* Confidence: 95%'}
+Confidence: 85 %
+Source Documents Metadata:
+----------------------------------------
+format: PDF 1.7
+title:
+author: Ricard Torralba
+subject:
+keywords:
+creator: Microsoft® Word for Microsoft 365
+producer: Microsoft® Word for Microsoft 365
+creationDate: D:20250204224823+01'00'
+modDate: D:20250204224823+01'00'
+trapped:
+encryption: None
+Document Name: Work Instruction - Hypophosphorous Acid
+Step Number: None
+Author: Ricard Torralba
+Created Date: D:20250204224823+01'00'
+Keywords: ['']
+Process Type: None
+Safety Measures: []
+Version: 2
+Date: 20/06/2020
+_id: 3cf450fd-1514-4f97-a699-aec76f469e94
+_collection_name: work_instructions_RAG
+----------------------------------------
+metadata: {}
+_id: 209917a6-31eb-4eba-b768-bdc7f51b87fb
+_collection_name: work_instructions_RAG
+----------------------------------------
+producer: Microsoft® Word for Microsoft 365
+creator: Microsoft® Word for Microsoft 365
+creationdate: 2025-02-07T08:45:23+01:00
+author: Ricard Torralba
+moddate: 2025-02-07T08:45:23+01:00
+source: /home/zamlamb/KdG/agenticrag/Resources/Work Instruction - Tanker Unloading to SD-5, SD-6, SD-7, SD-8 and SD-12.pdf
+total_pages: 3
+page: 1
+page_label: 2
+Document Name: Work Instruction - Tanker Unloading to SD-5, SD-6, SD-7, SD-8 and SD-12
+Review: None
+Date: 10/11/2020
+Version: 3
+_id: 8c0beb3d-966a-4f61-92dd-1b8ad4086e47
+_collection_name: work_instructions_RAG
+----------------------------------------
+producer: Microsoft® Word for Microsoft 365
+creator: Microsoft® Word for Microsoft 365
+creationdate: 2025-02-07T08:45:23+01:00
+author: Ricard Torralba
+moddate: 2025-02-07T08:45:23+01:00
+source: /home/zamlamb/KdG/agenticrag/Resources/Work Instruction - Tanker Unloading to SD-5, SD-6, SD-7, SD-8 and SD-12.pdf
+total_pages: 3
+page: 2
+page_label: 3
+Document Name: Work Instruction - Tanker Unloading to SD-5, SD-6, SD-7, SD-8 and SD-12
+Review: None
+Date: 10/11/2020
+Version: 3
+_id: 10c221e2-2be4-4a25-aea9-7a2bc6885568
+_collection_name: work_instructions_RAG

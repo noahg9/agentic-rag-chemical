@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  chromadb:
+    image: chromadb/chroma
+    container_name: chromadb
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./chroma_data:/chroma_data
+
+  qdrant:
+    image: qdrant/qdrant
+    container_name: qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - ./qdrant_storage:/qdrant/storage:z
